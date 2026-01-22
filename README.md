@@ -4,6 +4,8 @@ A **SQL-heavy PostgreSQL analytics project** that collects user feedback and exp
 
 This project is intentionally designed to **avoid ORMs** and keep SQL as a first‑class citizen. All analytics logic (aggregates, filters, pagination) lives in PostgreSQL, not application code.
 
+Remember to have postrgreSQl running in its own terminal
+
 ---
 
 ## 🎯 Project Goals
