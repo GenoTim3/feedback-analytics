@@ -6,7 +6,7 @@ This project is intentionally designed to **avoid ORMs** and keep SQL as a first
 
 Remember to have postrgreSQl running in its own terminal
 
-for myself I need to remember to commit with the right profile -_-
+Remember to have 2 terminals, one for frontend and backend, needs a little more tweaking
 
 ---
 
